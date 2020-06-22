@@ -1,0 +1,4 @@
+﻿  MainDlg.cpp
+c:\users\kostya\documents\visual studio 2015\projects\avtokursach\avtokursach\maindlg.cpp(1997): warning C4566: символ, представленный универсальным именем символа "\u03A3", невозможно представить в текущей кодовой странице (1251)
+  AvtoKursach.vcxproj -> C:\Users\Kostya\documents\visual studio 2015\Projects\AvtoKursach\Debug\AvtoKursach.exe
+  AvtoKursach.vcxproj -> C:\Users\Kostya\documents\visual studio 2015\Projects\AvtoKursach\Debug\AvtoKursach.pdb (Partial PDB)

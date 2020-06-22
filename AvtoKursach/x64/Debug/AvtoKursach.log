@@ -1,0 +1,6 @@
+﻿  HelpfullFunc.cpp
+c:\users\kostya\documents\visual studio 2015\projects\avtokursach\avtokursach\helpfullfunc.cpp(55): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\kostya\documents\visual studio 2015\projects\avtokursach\avtokursach\helpfullfunc.cpp(73): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\kostya\documents\visual studio 2015\projects\avtokursach\avtokursach\helpfullfunc.cpp(76): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  AvtoKursach.vcxproj -> C:\Users\Kostya\Documents\Visual Studio 2015\Projects\AvtoKursach\x64\Debug\AvtoKursach.exe
+  AvtoKursach.vcxproj -> C:\Users\Kostya\Documents\Visual Studio 2015\Projects\AvtoKursach\x64\Debug\AvtoKursach.pdb (Partial PDB)
